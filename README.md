@@ -1,4 +1,4 @@
-# Proyecto Python-devs-tools
+# Proyecto [nombre del proyecto]
 
 Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPL-3.0)**.
 
